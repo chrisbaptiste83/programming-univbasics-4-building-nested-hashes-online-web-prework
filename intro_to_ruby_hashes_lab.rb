@@ -1,4 +1,4 @@
-monopoly =  {
+def monopoly =  {
   :railroads=>
   {
     :pieces=>4,
@@ -30,3 +30,4 @@ monopoly =  {
     }
   }
 }
+end
